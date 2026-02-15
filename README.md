@@ -1,7 +1,7 @@
 # Stress-Testing-of-Convolutional-Neural-Networks_A1_DL
 
 # Deep Learning Assignment: Fashion-MNIST Classification
-##**********************************************************************PART 1**********************************************
+**PART 1**
 ## Model Selection overview
 The first part of the project implements and evaluates various Convolutional Neural Network (CNN) architectures for image classification on the Fashion-MNIST dataset. The primary goal is to compare the performance of pre-trained models (ResNet-18, VGG-16, VGG-19) adapted for Fashion-MNIST with a custom-designed baseline CNN, and to investigate the impact of data augmentation techniques.
 
