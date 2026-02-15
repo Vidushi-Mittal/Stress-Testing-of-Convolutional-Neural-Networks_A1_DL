@@ -1,0 +1,13 @@
+# Core Machine Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data Processing and Visualization
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Image Processing (Dependency for torchvision transforms)
+Pillow>=9.0.0
+
+# Standard Utilities
+ipython
